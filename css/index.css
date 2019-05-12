@@ -1,0 +1,40 @@
+img {
+  border-radius: 20px;
+  float: top-left;
+  width: 200px;
+  height: 200px;
+  animation-timing-function: linear;
+}
+html {
+	background-color: white;
+}
+p {
+	text-align: justify;
+	text-indent: left;
+	font-size: 15px;
+	font-style: sans-serif;
+}
+button {
+	background-color: yellow;
+	display: block;
+	color: black;
+	border-radius: 50px;
+	height: 100px;
+	width: 200px;
+	font-size: 80%
+
+}
+button:hover {
+	background-color: white;
+	color: yellow;
+	text-color: black;
+	background-size: 50%;
+}
+
+.rowheight {
+	min-height: 150px;
+}
+
+.image-margin {
+	margin-bottom: 30px;
+}
